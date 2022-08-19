@@ -1,0 +1,14 @@
+.container {
+    width: 70%;
+    margin: 0 auto;
+}
+figure {
+    position: relative;
+    float: right;
+}
+table, th, td {
+    border: solid 1px #000;
+}
+.bold {
+    font-weight: bold;
+}
